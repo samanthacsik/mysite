@@ -1,4 +1,26 @@
 ---
-title: "mysite"
+#title: "Samantha Csik"
+image: sam.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/samanthacsik
+    - text: Email
+      href: mailto:scsik@ucsb.edu   
 ---
 
+Hi there! I’m Sam (and my last name is pronounced “chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and I really love the color green. Poke around to learn more about me and my work!
+
+## Education
+
+some text here
+
+## Professional Experience
+
+More text here
