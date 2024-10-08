@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+## What I do for work
 
-```{r}
-1 + 1
-```
+~A longer form bio that focuses on my professional endeavors~
+
+## What I do for fun
+
+~Give the people what they want (i.e. some of the fun/unique stuff that makes you, you!)~

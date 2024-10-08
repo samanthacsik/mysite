@@ -2,3 +2,32 @@
 title: "All my favorite resources!"
 ---
 
+
+<h1>This is an h1 element</h1>
+
+<h1 class="title">This is also an h1 element of class title</h1>
+
+<p>this is a paragraph element (body text)</p>
+
+<p class="title">this is body text of class title</p>
+
+
+---
+
+<p class="orange-text">This paragraph is orange</p>
+
+<p class="center-text">This paragraph is centered</p>
+
+<h3 class="center-text orange-text">This level-3 header is centered and orange</h3>
+
+---
+
+[Here is some text which is orange]{.orange-text}
+
+::: {.center-text}
+This whole section will be orange.
+
+[Which includes this line as well]{.orange-text}
+
+## and this header
+:::

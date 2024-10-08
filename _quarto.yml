@@ -4,20 +4,29 @@ project:
 
 website:
   title: "Sam Csik"
+  favicon: images/my-favicon.png
   navbar:
-    left:
+    title: false
+    logo: images/my-logo.png
+    logo-alt: "Alt text for logo"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources.qmd
         text: Resources
+      - href: CV/my-cv.pdf
+        text: CV
+        target: _blank
+  page-footer: 
+    background: light
+    left: Copyright 2021, Samantha Csik
+    right: This website is built with {{< fa heart title="heart" >}}, {{< fa brands github title="the GitHub Octocat" >}} & ....
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: Nunito
     toc: false
     page-layout: full
 
