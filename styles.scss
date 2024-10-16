@@ -40,6 +40,10 @@ h1, h2 {
   color: maroon;
 }
 
+.quarto-title-banner h1 {
+  color: maroon;
+}
+
 .center-text {
   text-align: center;
 }
@@ -53,4 +57,12 @@ h1, h2 {
   width: auto;
 }
 
+.card {
+  background-color: $cream;
+  //border-radius: 5.25em;
+}
+
+.card-body {
+  color: maroon;
+}
 

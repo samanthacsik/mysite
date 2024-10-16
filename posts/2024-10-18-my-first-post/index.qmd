@@ -1,0 +1,35 @@
+---
+title: "blog post title"
+description: "a short description"
+author:
+  - name: Samantha Csik
+    url: https://samanthacsik.github.io/
+    orcid: 0000-0002-5300-3075
+    affiliation: Master of Environmental Data Science Program
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+date: 2024-10-18
+categories: [Quarto, R, MEDS]
+citation: 
+  url: https://samanthacsik.github.io/posts/2024-10-18-my-first-post/
+image: horst-penguins.png
+bibliography: references.bib
+csl: plos-computational-biology.csl
+# draft: true
+# draft-mode: visible
+---
+
+## Part 1
+
+I can start writing here!
+
+I'm going to insert a footnote here[^1]. I can also include inline footnotes like this[^2]
+
+[^1]: Here is the associated footnote
+
+[^2]: This is an inline footnote
+
+## Part 2
+
+Did you hear that Openscapes went to the White House [@fenwick2024]??
+
+Let's add a citation here[@gaynor2022]

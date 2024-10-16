@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sam Csik",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All my favorite resources!",
     "section": "",
-    "text": "Hi there! I’m Sam (and my last name is pronounced “chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and I really love the color green. Poke around to learn more about me and my work!"
+    "text": "This is an h1 element\nthis is a paragraph element (body text)\nthis is body text of class title\nThis paragraph is orange\nThis paragraph is centered\nHere is some text which is orange"
+  },
+  {
+    "objectID": "resources.html#and-this-header",
+    "href": "resources.html#and-this-header",
+    "title": "All my favorite resources!",
+    "section": "and this header",
+    "text": "and this header"
   },
   {
     "objectID": "about.html",
@@ -12,13 +19,6 @@
     "title": "About",
     "section": "",
     "text": "~A longer form bio that focuses on my professional endeavors~"
-  },
-  {
-    "objectID": "DELETE-LATER/practice.html",
-    "href": "DELETE-LATER/practice.html",
-    "title": "Here is my level one header",
-    "section": "",
-    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
   },
   {
     "objectID": "about.html#what-i-do-for-work",
@@ -35,17 +35,45 @@
     "text": "What I do for fun\n~Give the people what they want (i.e. some of the fun/unique stuff that makes you, you!)~"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "All my favorite resources!",
+    "objectID": "posts/2024-10-18-my-first-post/index.html",
+    "href": "posts/2024-10-18-my-first-post/index.html",
+    "title": "blog post title",
     "section": "",
-    "text": "This is an h1 element\nthis is a paragraph element (body text)\nthis is body text of class title\nThis paragraph is orange\nThis paragraph is centered\nHere is some text which is orange"
+    "text": "I can start writing here!\nI’m going to insert a footnote here1. I can also include inline footnotes like this2"
   },
   {
-    "objectID": "resources.html#and-this-header",
-    "href": "resources.html#and-this-header",
-    "title": "All my favorite resources!",
-    "section": "and this header",
-    "text": "and this header"
+    "objectID": "posts/2024-10-18-my-first-post/index.html#part-1",
+    "href": "posts/2024-10-18-my-first-post/index.html#part-1",
+    "title": "blog post title",
+    "section": "",
+    "text": "I can start writing here!\nI’m going to insert a footnote here1. I can also include inline footnotes like this2"
+  },
+  {
+    "objectID": "posts/2024-10-18-my-first-post/index.html#part-2",
+    "href": "posts/2024-10-18-my-first-post/index.html#part-2",
+    "title": "blog post title",
+    "section": "Part 2",
+    "text": "Part 2\nDid you hear that Openscapes went to the White House [1]??\nLet’s add a citation here[2]"
+  },
+  {
+    "objectID": "posts/2024-10-18-my-first-post/index.html#footnotes",
+    "href": "posts/2024-10-18-my-first-post/index.html#footnotes",
+    "title": "blog post title",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the associated footnote↩︎\nThis is an inline footnote↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Csik",
+    "section": "",
+    "text": "Hi there! I’m Sam (and my last name is pronounced “chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and I really love the color green. Poke around to learn more about me and my work!"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\na short description\n\n\n\nSamantha Csik\n\n\nOct 18, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
