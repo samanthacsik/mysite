@@ -1,0 +1,55 @@
+---
+title: "blog post title"
+description: "a short catchy description of the blog post"
+author:
+  - name: Samantha Csik
+    url: https://samanthacsik.github.io/
+    orcid: 0000-0002-5300-3075
+    affiliation: MEDS
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+date: 2024-10-18
+categories: [Quarto, MEDS, something-cool]
+toc: true
+bibliography: references.bib
+csl: plos-computational-biology.csl
+image: horst-penguins.png
+citation: 
+  url: https://samanthacsik.github.io/posts/2024-10-18-my-first-post/
+draft: true
+---
+
+## This is my first section
+
+I'm going to insert a footnote here[^1]
+
+[^1]: Here is a new footnote
+
+## This is my second
+
+Here's my next paragraph[^2]
+
+[^2]: Here is my second footnote
+
+I'm citing me[@csik2022]
+
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+#| message: false
+library(palmerpenguins)
+library(tidyverse)
+
+ggplot(penguins, 
+       aes(x = bill_length_mm,
+           y = bill_depth_mm)) +
+  geom_point()
+```
+
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("horst-penguins.png")
+```
+
