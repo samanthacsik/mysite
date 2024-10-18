@@ -6,10 +6,11 @@ about:
   image-shape: round
   image-width: 15em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
       href: https://www.linkedin.com/in/samanthacsik/
       target: _blank
     - text: GitHub
+      icon: github
       href: https://github.com/samanthacsik
     - text: Email
       href: mailto:scsik@ucsb.edu   
