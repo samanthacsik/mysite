@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sam Shanny-Csik",
     "section": "",
     "text": "Hi there! I’m Sam Shanny-Csik (pronounced “shan-knee chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and an on-again-off-again book worm. Poke around to learn more about me and my work!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
