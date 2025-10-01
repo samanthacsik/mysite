@@ -1,5 +1,19 @@
 ---
-title: "mysite"
+#title: "Sam Shanny-Csik"
+image: sam_cropped.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/samanthacsik
+      target: _blank
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-Hi this is Sam!
+Hi there! I’m Sam Shanny-Csik (pronounced “shan-knee chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and an on-again-off-again book worm. Poke around to learn more about me and my work!

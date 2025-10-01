@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "Sam Shanny-Csik"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
